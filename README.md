@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 🌱 Currently learning `⚙️ Backend Development` and `☁️ Cloud Computing`
 
 #### 📫 Reach me on:  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ar_Baskara)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryabasc)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/Ar_Baskara)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ar_Baskara)
  
 ## Languages & Tools
 [![My Languages](https://skillicons.dev/icons?i=c,cpp,java,js,ts,npm,nodejs,express,nestjs,sequelize,php,laravel,python,flask,mysq)](https://skillicons.dev)  
