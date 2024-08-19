@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ar_Baskara)
  
 ## Languages & Tools
-[![My Languages](https://skillicons.dev/icons?i=c,cpp,java,js,ts,npm,nodejs,express,nestjs,sequelize,php,laravel,python,flask,mysq)](https://skillicons.dev)  
+[![My Languages](https://skillicons.dev/icons?i=java,js,ts,npm,nodejs,express,nestjs,sequelize,php,laravel,python,flask,mysq)](https://skillicons.dev)  
   
 [![My Tools](https://skillicons.dev/icons?i=vim,vscode,linux,bash,git,github,postman,docker,kubernetes,terraform,gcp,aws)](https://skillicons.dev)
 
