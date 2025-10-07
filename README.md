@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### A little bit about me:
-👨‍💻 CS student  
+👨‍💻 I develop software (probably)
   
 🌱 Currently learning `⚙️ Backend Development` and `☁️ Cloud Computing`
 
