@@ -28,11 +28,3 @@ Here are some ideas to get you started:
 [![My Languages](https://skillicons.dev/icons?i=java,js,ts,npm,nodejs,express,nestjs,sequelize,php,laravel,python,flask,mysq)](https://skillicons.dev)  
   
 [![My Tools](https://skillicons.dev/icons?i=vim,vscode,linux,bash,git,github,postman,docker,kubernetes,terraform,gcp,aws)](https://skillicons.dev)
-
-## GitHub Stats
-<p align="left">
-<a href="https://github.com/avecenob">
-  <img height="225em" src="https://github-readme-stats.vercel.app/api?username=avecenob&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avecenob&theme=github_dark"/>
-</a>
-</p>
